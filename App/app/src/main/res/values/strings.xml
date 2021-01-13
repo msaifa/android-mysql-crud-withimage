@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Data Pegawai</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Konfirmasi Password</string>
+    <string name="hint_name">Nama</string>
+    <string name="btn_login">MASUK</string>
+    <string name="btn_register">DAFTAR</string>
+    <string name="btn_upload_image">Pilih Gambar</string>
+    <string name="btn_link_to_register">Belum memiliki akun ? Daftar sekarang.</string>
+    <string name="btn_link_to_login">Sudah terdaftar? Klik untuk masuk.</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="btn_logout">Keluar</string>
+    <string name="name">Nama</string>
+    <string name="edit_profile">Ubah Pegawai</string>
+    <string name="view_user">Lihat Profil</string>
+    <string name="change_password">Ubah Password</string>
+    <string name="logout">Keluar</string>
+    <string name="drawer_open">Buka Menu</string>
+    <string name="drawer_close">Tutup Menu</string>
+    <string name="update_profile">Ubah</string>
+    <string name="hint_old_password">Password Lama</string>
+    <string name="hint_new_password">Password Baru</string>
+
+</resources>
