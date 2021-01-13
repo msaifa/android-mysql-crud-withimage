@@ -1,0 +1,50 @@
+#----------------------------------#
+#----IGNORE DARI FOLDER ANDROID----#
+*.iml
+/App/.gradle
+/App/local.properties
+/App/.idea/caches
+/App/.idea/libraries
+/App/.idea/modules.xml
+/App/.idea/workspace.xml
+/App/.idea/navEditor.xml
+/App/.idea/assetWizardSettings.xml
+/App/.DS_Store
+/App/build
+/App/captures
+/App/.externalNativeBuild
+/App/.cxx
+
+# OS X Thumbnails
+._*
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Linux
+*~
+
+# Jetbrains editors (PHPStorm, etc)
+*.iml
+
+# Netbeans
+
+# Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+# Visual Studio Code
+
+
