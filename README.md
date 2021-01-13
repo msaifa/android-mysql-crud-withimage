@@ -18,7 +18,7 @@ Masukkan base url API kalian dan ubah pada variabel base_url di android studio
 
 ## Video Trailer
 ```bash
-https://github.com/msaifa/android-mysql-crud-withimage.git
+https://www.youtube.com/watch?v=R1TTstV0DHQ
 ```
 atau kunjungi [Youtube](https://www.youtube.com/watch?v=R1TTstV0DHQ)
 
